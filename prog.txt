@@ -1,0 +1,25 @@
+++OOP (Object-Oriented Programming)
+++Classes, objects, fields and methods of an object. Fields and methods of a Class
+++Encapsulation. Modifier 'static' and 'final.
+Inheritance. Abstract classes.
+Polymorphism. Reference Data Types in Java
+JCF. Java Collections Framework
+--> Working with Arrays in Java. Binary search. Sort.
+Data structures definition. Interfaces. Data structure 'List'. ArraysList implementation, beginning.
+Iterators and Iterable. Foreach syntax.
+Lists implementations. LinkedList.
+Java Set implementation. HashSet. Exercises.
+Comparing objects in Java. Comparator, Comparable. Method sort.
+Data structures 'Queue', 'Stack'. Custom ArrayDeque implementation.
+Data structure 'Map'. Object.hashCode, HashMap implementation.
+Test
+Lambdas, Functional Interfaces, Method references.
+Practice. Functions and Supplier interfaces.
+Input and Output in Java.
+Introduction to Input and Output in Java
+Try-catch. Reading/Writing streams of bytes, streams of strings.
+General and repetition
+Class String and its methods. Immutable. StringBuilder, StringBuffer, performance test. Regular expressions
+Generics, Object.equals, LocalDate, LocalDateTime, ZonedDateTime, exercises.
+Error and Exceptions.
+Test, Summarizing
