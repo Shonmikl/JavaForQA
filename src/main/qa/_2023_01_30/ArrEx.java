@@ -12,6 +12,8 @@ public class ArrEx {
         System.out.println(arr1[5]);
         System.out.println(Arrays.toString(arr1));
 
+
+
         /**
          * 1.Arr[22]
          * 2.loop ->
